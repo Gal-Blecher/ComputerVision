@@ -1,5 +1,6 @@
-# Computer Vision Course Final Project
-frequency detection from videos
+# Frequency detection from videos
+
+Computer Vision Course Final Project
 
 The task in this project is calculating fundamental frequency of structures. Knowing the frequency is important for calculating the stiffness and the material properties (such as elastic modulus) according to known equations – it can replace lab measurements. Also, according to the frequency we can estimate the load capacity that specific structure can hold, making sure the structure is not under resonance risk etc. In this project we will show a process done on a printed headphones stand printed in 3d printer from abs, but can be done on any different structure based on the same principals.
 
